@@ -1,0 +1,3 @@
+20230825-20230825Basico -> información de duración de velocidad en alta intensidad, duración de alta intensidad de ritmo cardíaco, distancia total, ratio distancia, distancia en alta intensidad, distancias en frecuencia cardíaca en alta intensidad, velocidad media, sprints totales, sprints de alta intensidad, media de pulsaciones por minuto, máxima altura de salto, número de saltos, body impacts
+
+20230825-20230825Cadens -> distancia total, distancia de HR en alta intensidad, velocidad máxima, número de sprints totales, HR máximo, altura máxima de salto, número de saltos, body impacts
